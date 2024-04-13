@@ -1,0 +1,103 @@
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+}
+
+.josefin-sans-<uniquifier> {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+p, ul, li {
+  color: #333333;
+}
+
+a {
+  color: #045c2f;
+}
+
+body {
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #045c2f;
+  color: #ffffff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+ul {
+  margin-bottom: 15px;
+}
+
+footer {
+  background-color: #045c2f;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+h3 {
+  color: #4caf50;
+}
+
+a:hover {
+  color: #004d26;
+}
+
+a:visited {
+  color: #4caf50;
+}
+
+.special {
+  color:
+  background-color: #f3e5b0;
+}
